@@ -3,4 +3,6 @@
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 5%;
+    background-color: aliceblue;
+    padding: 3%;
 }
